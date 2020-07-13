@@ -1,4 +1,3 @@
-
 @charset "UTF-8";
 
 html {
@@ -43,7 +42,7 @@ dl {
 }
 
 body a:hover {
-  color: #ff6768;
+  color: #4169e1;
   transition: 0.3s ease;
 }
 
@@ -74,7 +73,7 @@ h3.hny-title.two {
 }
 
 h3.hny-title span.dot-1 {
-  color: #ff6768;
+  color: #4169e1;
   margin-left: 10px;
 }
 
@@ -91,7 +90,7 @@ a.read-more-btn.btn {
 }
 
 a.read-more-btn.btn:hover {
-  background-color: #ff6768;
+  background-color: #4169e1;
 }
 
 a.read-more-btn2.btn {
@@ -104,12 +103,12 @@ a.read-more-btn2.btn {
   background-color: transparent;
   margin-top: 20px;
   margin-left: 20px;
-  color: #ff6768;
+  color: #4169e1;
 }
 
 a.read-more-btn2.btn:hover {
   color: #fff;
-  background-color: #ff6768;
+  background-color: #4169e1;
 }
 
 @media (max-width: 1280px) {
@@ -3219,7 +3218,7 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-top-header-content .social-top li a:hover {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-top-header-content .social-top {
@@ -3333,7 +3332,7 @@ a.read-more-btn2.btn:hover {
 
 .w3l-top-header-content .dropdown-item:hover,
 .w3l-top-header-content .dropdown-item:focus {
-  color: #ff6768;
+  color: #4169e1;
   text-decoration: none;
   background-color: transparent;
 }
@@ -3350,7 +3349,7 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-top-header-content a.navbar-brand span.fa {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-top-header-content label.lohny {
@@ -3367,12 +3366,12 @@ a.read-more-btn2.btn:hover {
 .w3l-top-header-content .navbar-light .navbar-nav .active>.nav-link,
 .w3l-top-header-content .navbar-light .navbar-nav .nav-link.show,
 .w3l-top-header-content .navbar-light .navbar-nav .nav-link.active {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-top-header-content .navbar-light .navbar-nav .nav-link:hover,
 .w3l-top-header-content .navbar-light .navbar-nav .nav-link:focus {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-top-header-content .navbar-light .navbar-nav .nav-link {
@@ -3503,7 +3502,8 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-banner-slider-main .carousel-item {
-  background: url(../images/bg.jpg) no-repeat;
+  /* TODO: Check if this is the right place for this image */
+  background: url(../images/hero-image-home.png) no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -3512,7 +3512,7 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-banner-slider-main .carousel-item.item2 {
-  background: url(../images/bg1.jpg) no-repeat;
+  background: url(../images/MH63-machine.jpg) no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -3521,7 +3521,7 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-banner-slider-main .carousel-item.item3 {
-  background: url(../images/bg2.jpg) no-repeat;
+  /*background: url(../images/bg2.jpg) no-repeat;*/
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -3530,7 +3530,7 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-banner-slider-main .carousel-item.item4 {
-  background: url(../images/bg3.jpg) no-repeat;
+  /*background: url(../images/bg3.jpg) no-repeat;*/
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -3576,7 +3576,7 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-banner-slider-main a.banner-btn.btn:hover {
-  background: #ff6768;
+  background: #4169e1;
   color: #fff;
 }
 
@@ -3789,7 +3789,7 @@ a.read-more-btn2.btn:hover {
 
 .w3l-specification-6 .counter-6-inf-left {
   padding: 14em 4em;
-  background: url(../images/bg1.jpg) no-repeat 0px 0px;
+  /*background: url(../images/bg1.jpg) no-repeat 0px 0px;*/
   background-size: cover;
   z-index: 0;
   position: relative;
@@ -3840,7 +3840,7 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-specification-6 .counter-6-inf-right h6 a:hover {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-specification-6 .counter-6-inf-left p {
@@ -3874,7 +3874,7 @@ a.read-more-btn2.btn:hover {
 .w3l-specification-6 .specification span.fa {
   font-size: 36px;
   margin-top: 4px;
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-specification-6 .specification h4 {
@@ -3897,7 +3897,7 @@ a.read-more-btn2.btn:hover {
 
 .w3l-specification-6 .counter-6-inf-left2 {
   padding: 14em 4em;
-  background: url(../images/bg3.jpg) no-repeat 0px 0px;
+  /*background: url(../images/bg3.jpg) no-repeat 0px 0px;*/
   background-size: cover;
   z-index: 0;
   position: relative;
@@ -3915,7 +3915,7 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-specification-6 .calltoaction-text-info a span.fa {
-  color: #ff6768;
+  color: #4169e1;
   margin-right: 6px;
 }
 
@@ -3959,7 +3959,7 @@ a.read-more-btn2.btn:hover {
 
   .w3l-specification-6 .counter-6-inf-left2 {
     padding: 14em 0em;
-    background: url(../images/bg3.jpg) no-repeat 0px 0px;
+    /*background: url(../images/bg3.jpg) no-repeat 0px 0px;*/
     background-size: cover;
     z-index: 0;
     position: relative;
@@ -4032,7 +4032,7 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-counter-6 .conuter-66-info {
-  background: url(../images/bg2.jpg) no-repeat bottom;
+  /*background: url(../images/bg2.jpg) no-repeat bottom;*/
   background-size: cover;
   z-index: 0;
   position: relative;
@@ -4129,7 +4129,7 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3l-content-w-photo-6 .photo-6-inf-right h6 a:hover {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-content-w-photo-6 .photo-6-inf-left p {
@@ -4157,7 +4157,7 @@ a.read-more-btn2.btn:hover {
 
 .w3l-content-w-photo-6 .specification span.fa {
   font-size: 36px;
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-content-w-photo-6 .specification-icon {
@@ -4374,11 +4374,11 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3-gallery .portfolio-categ li a:hover {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3-gallery .portfolio-categ li.active a {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3-gallery .home-portfolio-text {
@@ -4386,7 +4386,7 @@ a.read-more-btn2.btn:hover {
 }
 
 .w3-gallery .portfolio-categ li.active a {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 @media (max-width: 1080px) {
@@ -6236,7 +6236,7 @@ div.ppt {
 }
 
 .w3l-progress-6 .progress-66-info {
-  background: url(../images/bg5.jpg) no-repeat center;
+  /*background: url(../images/bg5.jpg) no-repeat center;*/
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -6288,7 +6288,7 @@ div.ppt {
 }
 
 .w3l-progress-6 .progress-bar {
-  background-color: #ff6768;
+  background-color: #4169e1;
 }
 
 .w3l-progress-6 .progress {
@@ -6390,7 +6390,7 @@ div.ppt {
   color: #fff;
   font-size: 30px;
   line-height: 30px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .w3l-footer-22-main .footer-hny-ul {
@@ -6456,7 +6456,7 @@ div.ppt {
 }
 
 .w3l-footer-22-main ul.social.footer li a:hover {
-  background: #ff6768;
+  background: #4169e1;
   transition: 0.3s ease;
 }
 
@@ -6549,7 +6549,7 @@ div.ppt {
   font-size: 18px;
   font-weight: 700;
   display: block;
-  background: #ff6768;
+  background: #4169e1;
   border: 2px solid transparent;
   width: 100%;
   text-transform: capitalize;
@@ -6579,7 +6579,7 @@ div.ppt {
 }
 
 .w3l-footer-22-main #movetop:hover {
-  background: #ff6768;
+  background: #4169e1;
 }
 
 @media (max-width: 992px) {
@@ -6613,7 +6613,7 @@ div.ppt {
 }
 
 .w3l-inner-page-main .breadcrumb-infhny {
-  background: url(../images/bg3.jpg) no-repeat center;
+  /*background: url(../images/bg3.jpg) no-repeat center;*/
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -6694,7 +6694,7 @@ div.ppt {
 }
 
 .w3l-content-5 .content-5-main {
-  background: url(../images/bg4.jpg) no-repeat center;
+  /*background: url(../images/bg4.jpg) no-repeat center;*/
   background-size: cover;
   z-index: 0;
   position: relative;
@@ -6839,7 +6839,7 @@ div.ppt {
 }
 
 .w3l-team-main .team-member:hover h6 {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-team-main .socials a {
@@ -6867,7 +6867,7 @@ div.ppt {
 
 .w3l-team-main .socials a:hover span {
   color: #fff;
-  background: #ff6768;
+  background: #4169e1;
 }
 
 .w3l-wecome-content-6 .ab-content-6-mian {
@@ -6896,7 +6896,7 @@ div.ppt {
 
 .w3l-content-12-main .content-12 .content-heading:hover {
   transition: 0.3s ease;
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-content-12-main .content-12 .content-para {
@@ -6949,9 +6949,9 @@ div.ppt {
 }
 
 .w3l-content-12-main .content-12 input:checked+label.tabtle {
-  border-bottom: 2px solid #ff6768;
+  border-bottom: 2px solid #4169e1;
   text-align: center;
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-content-12-main .content-12 #tab1:checked~#content1,
@@ -7077,7 +7077,7 @@ div.ppt {
 }
 
 .w3l-services-6 .w3-icon-grid1 a:hover h3 {
-  color: #ff6768;
+  color: #4169e1;
   transition: .3s;
   -webkit-transition: .3s;
   -moz-transition: .3s;
@@ -7089,7 +7089,7 @@ div.ppt {
   font-size: 25px;
   float: left;
   width: 40px;
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-services-6 .w3-icon-grid1 p {
@@ -7151,14 +7151,14 @@ div.ppt {
 }
 
 .w3l-services-2 .welcome-image h4 a:hover {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-services-2 h6 {
   text-align: center;
   font-weight: 300;
   text-transform: uppercase;
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-services-2 .boxhny13 {
@@ -7274,7 +7274,7 @@ div.ppt {
   text-align: center;
   font-weight: 300;
   text-transform: uppercase;
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .features-4 p.what-para {
@@ -7305,7 +7305,7 @@ div.ppt {
 .features-4 span.fa.icon-fea4 {
   font-size: 50px;
   margin-bottom: 16px;
-  color: #ff6768;
+  color: #4169e1;
 }
 
 @media all and (max-width: 991px) {
@@ -7373,7 +7373,7 @@ div.ppt {
 
 .blog-post-main .subscribehny button {
   text-align: center;
-  background: #ff6768;
+  background: #4169e1;
   border: none;
   outline: none;
   font-size: 16px;
@@ -7407,7 +7407,7 @@ div.ppt {
 }
 
 .blog-post-main span.dot-1 {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .blog-post-main .post-title {
@@ -7421,7 +7421,7 @@ div.ppt {
 }
 
 .blog-post-main .post-title:hover {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .blog-post-main .mag-post-meta {
@@ -7457,7 +7457,7 @@ div.ppt {
 }
 
 .blog-post-main .tags-w3l a:hover {
-  background: #ff6768;
+  background: #4169e1;
 }
 
 .blog-post-main a.page-link.btn {
@@ -7472,7 +7472,7 @@ div.ppt {
 }
 
 .blog-post-main a.page-link.btn.active {
-  background: #ff6768;
+  background: #4169e1;
   border: transparent;
 }
 
@@ -7541,7 +7541,7 @@ div.ppt {
 .blog-post-main blockquote {
   padding: 20px 40px;
   line-height: 30px;
-  border-left: 4px solid #ff6768;
+  border-left: 4px solid #4169e1;
   background: rgba(233, 236, 239, 0.72);
   border-radius: 6px;
   -webkit-border-radius: 6px;
@@ -7563,7 +7563,7 @@ div.ppt {
 
 .blog-post-main blockquote.quote-dark span.fa {
   font-size: 34px;
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .blog-post-main blockquote.quote-dark cite {
@@ -7573,12 +7573,12 @@ div.ppt {
 .blog-post-main a.use-admin2 {
   display: block;
   text-align: right;
-  color: #ff6768;
+  color: #4169e1;
   font-weight: 600;
 }
 
 .blog-post-main a.use-admin {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .blog-post-main a.author-name {
@@ -7594,7 +7594,7 @@ div.ppt {
 }
 
 .blog-post-main .spl-parhny {
-  color: #ff6768;
+  color: #4169e1;
   font-size: 18px;
   font-style: italic;
 }
@@ -7614,7 +7614,7 @@ div.ppt {
 }
 
 .blog-post-main .adm-1 a {
-  color: #ff6768;
+  color: #4169e1;
   font-size: 14px;
   font-style: italic;
   font-family: 'Montserrat', sans-serif;
@@ -7698,7 +7698,7 @@ div.ppt {
 .blog-post-main .leave-comment-form textarea.form-control:focus {
   box-shadow: none;
   background: rgba(255, 103, 104, 0.0588235);
-  border: 2px solid #ff6768;
+  border: 2px solid #4169e1;
 }
 
 .blog-post-main .leave-comment-form textarea.form-control {
@@ -7720,8 +7720,8 @@ div.ppt {
 
 .blog-post-main .btn-primary {
   color: #fff;
-  background-color: #ff6768;
-  border-color: #ff6768;
+  background-color: #4169e1;
+  border-color: #4169e1;
 }
 
 .blog-post-main .btn-primary:hover {
@@ -7782,7 +7782,7 @@ div.ppt {
 }
 
 .blog-post-main .form-input label.container input:checked~.checkmark {
-  background-color: #ff6768;
+  background-color: #4169e1;
   border: none;
 }
 
@@ -7830,7 +7830,7 @@ div.ppt {
 .blog-post-main span.nav-title {
   font-weight: 700;
   font-size: 18px;
-  color: #ff6768;
+  color: #4169e1;
   text-transform: capitalize;
 }
 
@@ -7988,7 +7988,7 @@ div.ppt {
 }
 
 .w3l-contact-main label.container p a {
-  color: #ff6768;
+  color: #4169e1;
 }
 
 .w3l-contact-main .form-input label.container {
@@ -8028,7 +8028,7 @@ div.ppt {
 }
 
 .w3l-contact-main .form-input label.container input:checked~.checkmark {
-  background-color: #ff6768;
+  background-color: #4169e1;
   border: none;
 }
 
@@ -8065,8 +8065,8 @@ div.ppt {
 }
 
 .w3l-contact-main .submit:hover {
-  border: 2px solid #ff6768;
-  background: #ff6768;
+  border: 2px solid #4169e1;
+  background: #4169e1;
 }
 
 .w3l-contact-main .map-hny iframe {
@@ -8088,7 +8088,7 @@ div.ppt {
   text-align: center;
   padding: 6px 20px;
   display: inline-block;
-  background: #ff6768;
+  background: #4169e1;
 }
 
 @media (max-width: 992px) {
@@ -19107,6 +19107,10 @@ a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+}
+
+.new:active, .new:hover {
+  color: #4169e1 !important;
 }
 
 /*# sourceMappingURL=style-liberty.css.map */
