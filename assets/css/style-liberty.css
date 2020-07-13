@@ -3352,7 +3352,7 @@ a.read-more-btn2.btn:hover {
   color: #4169e1;
 }
 
-.w3l-top-header-content label.lohny {
+.w3l-top-header-content, label.lohny {
   font-weight: 700;
   margin: 0;
 }
@@ -3570,14 +3570,14 @@ a.read-more-btn2.btn:hover {
   font-weight: 600;
   padding: 12px 26px;
   font-size: 16px;
-  background-color: #fff;
+  background-color: #4169e1;
   margin-top: 20px;
-  color: #101d29;
+  color: #fff;
 }
 
 .w3l-banner-slider-main a.banner-btn.btn:hover {
-  background: #4169e1;
-  color: #fff;
+  background: #fff;
+  color: #101d29;
 }
 
 .w3l-banner-slider-main .b-ck {
